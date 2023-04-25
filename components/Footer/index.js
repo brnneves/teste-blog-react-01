@@ -79,7 +79,7 @@ function Footer(props) {
         Orgulhosamente feito durante a série Alura.js
       </p>
       <p>
-        <a href="https://www.youtube.com/user/codigofontetv">Código Fonte</a>, <a href="https://alura.com.br">Alura</a> e <a href="https://youtube.com/c/DevSoutinho">DevSoutinho</a>
+        <a href="https://www.youtube.com">Teste</a>, <a href="https://alura.com.br">Alura</a> e <a href="https://youtube.com">Dev</a>
       </p>
     </FooterWrapper>
   );
