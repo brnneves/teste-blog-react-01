@@ -8,7 +8,7 @@ export default function Home({ allPosts }) {
       <header className="headerContainer">
         <img src="https://unavatar.now.sh/github/brnneves" />
         <h1>
-          DevSoutinho's Blog
+         Blog de Teste 01
         </h1>
       </header>
 
