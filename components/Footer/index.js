@@ -76,7 +76,7 @@ function Footer(props) {
         ))}
       </ul>
       <p>
-        Orgulhosamente feito durante a série Alura.js
+        Orgulhosamente feito durante a série Teste.js
       </p>
       <p>
         <a href="https://www.youtube.com">Teste</a>, <a href="https://alura.com.br">Alura</a> e <a href="https://youtube.com">Dev</a>
