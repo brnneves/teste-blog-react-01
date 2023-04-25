@@ -6,7 +6,7 @@ export default function Home({ allPosts }) {
   return (
     <div>
       <header className="headerContainer">
-        <img src="https://unavatar.now.sh/github/omariosouto" />
+        <img src="https://unavatar.now.sh/github/brnneves" />
         <h1>
           DevSoutinho's Blog
         </h1>
@@ -28,10 +28,10 @@ export default function Home({ allPosts }) {
       </section>
 
       <Footer
-        facebook="omariosouto"
-        twitter="omariosouto"
-        linkedin="omariosouto"
-        github="omariosouto"
+        facebook="brnneves"
+        twitter="brnneves"
+        linkedin="brnneves"
+        github="brnneves"
       />
     </div>
   )
